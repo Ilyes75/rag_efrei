@@ -1,4 +1,4 @@
-package net.filecode.rag.web.rest;
+package rest;
 
 //import net.filecode.rag.web.dto.Sample;
 import org.springframework.web.bind.annotation.*;
